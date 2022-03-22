@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: #536976;
+    background: -webkit-linear-gradient(to right, #292E49, #536976);
+    background: linear-gradient(to right, #292E49, #536976);
+}
+
+.title {
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-danger {
+    text-align: start;
+    margin-left: 7px;
+}
